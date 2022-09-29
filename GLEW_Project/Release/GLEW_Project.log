@@ -1,0 +1,533 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  GLEW_Project.cpp
+  Примечание: включение файла:  C:\OpenGL\glew-2.1.0\include\GL/glew.h
+  Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\GL/glu.h
+  Примечание: включение файла:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winapifamily.h
+  Примечание: включение файла:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winpackagefamily.h
+  Примечание: включение файла:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\GL/gl.h
+  Примечание: включение файла:  C:\OpenGL\glew-2.1.0\include\GLFW/glfw3.h
+  Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stddef.h
+  Примечание: включение файла:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h
+  Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\vcruntime.h
+  Примечание: включение файла:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\sal.h
+  Примечание: включение файла:       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\concurrencysal.h
+  Примечание: включение файла:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\vadefs.h
+  Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\stdint.h
+  Примечание: включение файла:  C:\OpenGL\glew-2.1.0\include\glm/glm.hpp
+  Примечание: включение файла:   c:\opengl\glew-2.1.0\include\glm\detail/_fixes.hpp
+  Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\cmath
+  Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\yvals.h
+  Примечание: включение файла:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\yvals_core.h
+  Примечание: включение файла:       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xkeycheck.h
+  Примечание: включение файла:       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\crtdefs.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h
+  Примечание: включение файла:       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\vcruntime_new_debug.h
+  Примечание: включение файла:        C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\vcruntime_new.h
+  Примечание: включение файла:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\use_ansi.h
+  Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\cstdlib
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdlib.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_malloc.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_search.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdlib.h
+  Примечание: включение файла:       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\limits.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\math.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math.h
+  Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xtgmath.h
+  Примечание: включение файла:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xtr1common
+  Примечание: включение файла:   c:\opengl\glew-2.1.0\include\glm\detail/setup.hpp
+  Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\cassert
+  Примечание: включение файла:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\assert.h
+  Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\cstddef
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\detail\../simd/platform.h
+  Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\cstdint
+  Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\type_traits
+  Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xstddef
+  Примечание: включение файла:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\initializer_list
+  Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\climits
+  Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\cfloat
+  Примечание: включение файла:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\float.h
+  Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\limits
+  Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\ymath.h
+  Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\cwchar
+  Примечание: включение файла:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\wchar.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_memcpy_s.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\errno.h
+  Примечание: включение файла:       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\vcruntime_string.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wconio.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_stdio_config.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wctype.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wdirect.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wio.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_share.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wprocess.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstring.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wtime.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\sys/stat.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\sys/types.h
+  Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\cassert
+  Примечание: включение файла:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\assert.h
+  Примечание: включение файла:   c:\opengl\glew-2.1.0\include\glm\fwd.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\detail/qualifier.hpp
+  Примечание: включение файла:     c:\opengl\glew-2.1.0\include\glm\detail\setup.hpp
+  Примечание: включение файла:   c:\opengl\glew-2.1.0\include\glm\vec2.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_bool2.hpp
+  Примечание: включение файла:     c:\opengl\glew-2.1.0\include\glm\ext\../detail/type_vec2.hpp
+  Примечание: включение файла:      c:\opengl\glew-2.1.0\include\glm\detail\type_vec2.inl
+  Примечание: включение файла:       c:\opengl\glew-2.1.0\include\glm\detail\./compute_vector_relational.hpp
+  Примечание: включение файла:        c:\opengl\glew-2.1.0\include\glm\detail\setup.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_bool2_precision.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_float2.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_float2_precision.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_double2.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_double2_precision.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_int2.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_int2_sized.hpp
+  Примечание: включение файла:     c:\opengl\glew-2.1.0\include\glm\ext\../ext/scalar_int_sized.hpp
+  Примечание: включение файла:      c:\opengl\glew-2.1.0\include\glm\ext\../detail/setup.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_uint2.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_uint2_sized.hpp
+  Примечание: включение файла:     c:\opengl\glew-2.1.0\include\glm\ext\../ext/scalar_uint_sized.hpp
+  Примечание: включение файла:      c:\opengl\glew-2.1.0\include\glm\ext\../detail/setup.hpp
+  Примечание: включение файла:   c:\opengl\glew-2.1.0\include\glm\vec3.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_bool3.hpp
+  Примечание: включение файла:     c:\opengl\glew-2.1.0\include\glm\ext\../detail/type_vec3.hpp
+  Примечание: включение файла:      c:\opengl\glew-2.1.0\include\glm\detail\type_vec3.inl
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_bool3_precision.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_float3.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_float3_precision.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_double3.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_double3_precision.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_int3.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_int3_sized.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_uint3.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_uint3_sized.hpp
+  Примечание: включение файла:   c:\opengl\glew-2.1.0\include\glm\vec4.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_bool4.hpp
+  Примечание: включение файла:     c:\opengl\glew-2.1.0\include\glm\ext\../detail/type_vec4.hpp
+  Примечание: включение файла:      c:\opengl\glew-2.1.0\include\glm\detail\type_vec4.inl
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_bool4_precision.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_float4.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_float4_precision.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_double4.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_double4_precision.hpp
+  Примечание: включение файла:     c:\opengl\glew-2.1.0\include\glm\ext\../detail/setup.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_int4.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_int4_sized.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_uint4.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/vector_uint4_sized.hpp
+  Примечание: включение файла:   c:\opengl\glew-2.1.0\include\glm\mat2x2.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/matrix_double2x2.hpp
+  Примечание: включение файла:     c:\opengl\glew-2.1.0\include\glm\ext\../detail/type_mat2x2.hpp
+  Примечание: включение файла:      c:\opengl\glew-2.1.0\include\glm\detail\type_mat2x2.inl
+  Примечание: включение файла:       c:\opengl\glew-2.1.0\include\glm\detail\../matrix.hpp
+  Примечание: включение файла:        c:\opengl\glew-2.1.0\include\glm\detail/setup.hpp
+  Примечание: включение файла:        c:\opengl\glew-2.1.0\include\glm\mat2x3.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_double2x3.hpp
+  Примечание: включение файла:          c:\opengl\glew-2.1.0\include\glm\ext\../detail/type_mat2x3.hpp
+  Примечание: включение файла:           c:\opengl\glew-2.1.0\include\glm\detail\type_mat2x3.inl
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_double2x3_precision.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_float2x3.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_float2x3_precision.hpp
+  Примечание: включение файла:        c:\opengl\glew-2.1.0\include\glm\mat2x4.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_double2x4.hpp
+  Примечание: включение файла:          c:\opengl\glew-2.1.0\include\glm\ext\../detail/type_mat2x4.hpp
+  Примечание: включение файла:           c:\opengl\glew-2.1.0\include\glm\detail\type_mat2x4.inl
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_double2x4_precision.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_float2x4.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_float2x4_precision.hpp
+  Примечание: включение файла:        c:\opengl\glew-2.1.0\include\glm\mat3x2.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_double3x2.hpp
+  Примечание: включение файла:          c:\opengl\glew-2.1.0\include\glm\ext\../detail/type_mat3x2.hpp
+  Примечание: включение файла:           c:\opengl\glew-2.1.0\include\glm\detail\type_mat3x2.inl
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_double3x2_precision.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_float3x2.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_float3x2_precision.hpp
+  Примечание: включение файла:        c:\opengl\glew-2.1.0\include\glm\mat3x3.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_double3x3.hpp
+  Примечание: включение файла:          c:\opengl\glew-2.1.0\include\glm\ext\../detail/type_mat3x3.hpp
+  Примечание: включение файла:           c:\opengl\glew-2.1.0\include\glm\detail\type_mat3x3.inl
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_double3x3_precision.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_float3x3.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_float3x3_precision.hpp
+  Примечание: включение файла:        c:\opengl\glew-2.1.0\include\glm\mat3x4.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_double3x4.hpp
+  Примечание: включение файла:          c:\opengl\glew-2.1.0\include\glm\ext\../detail/type_mat3x4.hpp
+  Примечание: включение файла:           c:\opengl\glew-2.1.0\include\glm\detail\type_mat3x4.inl
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_double3x4_precision.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_float3x4.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_float3x4_precision.hpp
+  Примечание: включение файла:        c:\opengl\glew-2.1.0\include\glm\mat4x2.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_double4x2.hpp
+  Примечание: включение файла:          c:\opengl\glew-2.1.0\include\glm\ext\../detail/type_mat4x2.hpp
+  Примечание: включение файла:           c:\opengl\glew-2.1.0\include\glm\detail\type_mat4x2.inl
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_double4x2_precision.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_float4x2.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_float4x2_precision.hpp
+  Примечание: включение файла:        c:\opengl\glew-2.1.0\include\glm\mat4x3.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_double4x3.hpp
+  Примечание: включение файла:          c:\opengl\glew-2.1.0\include\glm\ext\../detail/type_mat4x3.hpp
+  Примечание: включение файла:           c:\opengl\glew-2.1.0\include\glm\detail\type_mat4x3.inl
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_double4x3_precision.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_float4x3.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_float4x3_precision.hpp
+  Примечание: включение файла:        c:\opengl\glew-2.1.0\include\glm\mat4x4.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_double4x4.hpp
+  Примечание: включение файла:          c:\opengl\glew-2.1.0\include\glm\ext\../detail/type_mat4x4.hpp
+  Примечание: включение файла:           c:\opengl\glew-2.1.0\include\glm\detail\type_mat4x4.inl
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_double4x4_precision.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_float4x4.hpp
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\./ext/matrix_float4x4_precision.hpp
+  Примечание: включение файла:        c:\opengl\glew-2.1.0\include\glm\detail/func_matrix.inl
+  Примечание: включение файла:         c:\opengl\glew-2.1.0\include\glm\detail\../geometric.hpp
+  Примечание: включение файла:          c:\opengl\glew-2.1.0\include\glm\detail/func_geometric.inl
+  Примечание: включение файла:           c:\opengl\glew-2.1.0\include\glm\detail\../exponential.hpp
+  Примечание: включение файла:            c:\opengl\glew-2.1.0\include\glm\detail/type_vec1.hpp
+  Примечание: включение файла:             c:\opengl\glew-2.1.0\include\glm\detail\type_vec1.inl
+  Примечание: включение файла:            c:\opengl\glew-2.1.0\include\glm\detail/func_exponential.inl
+  Примечание: включение файла:             c:\opengl\glew-2.1.0\include\glm\detail\../vector_relational.hpp
+  Примечание: включение файла:              c:\opengl\glew-2.1.0\include\glm\detail/setup.hpp
+  Примечание: включение файла:              c:\opengl\glew-2.1.0\include\glm\detail/func_vector_relational.inl
+  Примечание: включение файла:             c:\opengl\glew-2.1.0\include\glm\detail\_vectorize.hpp
+  Примечание: включение файла:             C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\cassert
+  Примечание: включение файла:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\assert.h
+  Примечание: включение файла:           c:\opengl\glew-2.1.0\include\glm\detail\../common.hpp
+  Примечание: включение файла:            c:\opengl\glew-2.1.0\include\glm\detail/_fixes.hpp
+  Примечание: включение файла:            c:\opengl\glew-2.1.0\include\glm\detail/func_common.inl
+  Примечание: включение файла:             c:\opengl\glew-2.1.0\include\glm\detail\compute_common.hpp
+  Примечание: включение файла:              c:\opengl\glew-2.1.0\include\glm\detail\setup.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/matrix_double2x2_precision.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/matrix_float2x2.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\./ext/matrix_float2x2_precision.hpp
+  Примечание: включение файла:   c:\opengl\glew-2.1.0\include\glm\trigonometric.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\detail/setup.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\detail/func_trigonometric.inl
+  Примечание: включение файла:   c:\opengl\glew-2.1.0\include\glm\packing.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\detail/func_packing.inl
+  Примечание: включение файла:     c:\opengl\glew-2.1.0\include\glm\detail\type_half.hpp
+  Примечание: включение файла:      c:\opengl\glew-2.1.0\include\glm\detail\setup.hpp
+  Примечание: включение файла:      c:\opengl\glew-2.1.0\include\glm\detail\type_half.inl
+  Примечание: включение файла:   c:\opengl\glew-2.1.0\include\glm\integer.hpp
+  Примечание: включение файла:    c:\opengl\glew-2.1.0\include\glm\detail/func_integer.inl
+  Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\intrin.h
+  Примечание: включение файла:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\intrin0.h
+  Примечание: включение файла:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\setjmp.h
+  Примечание: включение файла:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\immintrin.h
+  Примечание: включение файла:       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\wmmintrin.h
+  Примечание: включение файла:        C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\nmmintrin.h
+  Примечание: включение файла:         C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\smmintrin.h
+  Примечание: включение файла:          C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\tmmintrin.h
+  Примечание: включение файла:           C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\pmmintrin.h
+  Примечание: включение файла:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\emmintrin.h
+  Примечание: включение файла:             C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xmmintrin.h
+  Примечание: включение файла:              C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\mmintrin.h
+  Примечание: включение файла:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\malloc.h
+  Примечание: включение файла:       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\zmmintrin.h
+  Примечание: включение файла:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\ammintrin.h
+  Примечание: включение файла:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\mm3dnow.h
+  Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\iostream
+  Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\istream
+  Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\ostream
+  Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\ios
+  Примечание: включение файла:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xlocnum
+  Примечание: включение файла:       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\cstdio
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h
+  Примечание: включение файла:       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\streambuf
+  Примечание: включение файла:        C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xiosbase
+  Примечание: включение файла:         C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xlocale
+  Примечание: включение файла:          C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\cstring
+  Примечание: включение файла:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h
+  Примечание: включение файла:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_memory.h
+  Примечание: включение файла:          C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\stdexcept
+  Примечание: включение файла:           C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\exception
+  Примечание: включение файла:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\vcruntime_exception.h
+  Примечание: включение файла:             C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\eh.h
+  Примечание: включение файла:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_terminate.h
+  Примечание: включение файла:           C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xstring
+  Примечание: включение файла:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xmemory0
+  Примечание: включение файла:             C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\new
+  Примечание: включение файла:             C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xutility
+  Примечание: включение файла:              C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\utility
+  Примечание: включение файла:               C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\iosfwd
+  Примечание: включение файла:             C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xatomic0.h
+  Примечание: включение файла:          C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\typeinfo
+  Примечание: включение файла:           C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\vcruntime_typeinfo.h
+  Примечание: включение файла:          C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xlocinfo
+  Примечание: включение файла:           C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xlocinfo.h
+  Примечание: включение файла:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\ctype.h
+  Примечание: включение файла:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\locale.h
+  Примечание: включение файла:          C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\memory
+  Примечание: включение файла:           C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xmemory
+  Примечание: включение файла:          C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xfacet
+  Примечание: включение файла:         C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\system_error
+  Примечание: включение файла:          C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\cerrno
+  Примечание: включение файла:          C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xcall_once.h
+  Примечание: включение файла:          C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xerrc.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\share.h
+  Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\string
+  Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xstring_insert.h
+  Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\vector
+  Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\map
+  Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\tuple
+  Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\xtree
+  Примечание: включение файла:  C:\OpenGL\tokamak_release\include\tokamak.h
+  Примечание: включение файла:   c:\opengl\tokamak_release\include\math/ne_math.h
+  Примечание: включение файла:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\math.h
+  Примечание: включение файла:    c:\opengl\tokamak_release\include\math\ne_type.h
+  Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\stdarg.h
+  Примечание: включение файла:    c:\opengl\tokamak_release\include\math\ne_debug.h
+  Примечание: включение файла:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\windows.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\sdkddkver.h
+  Примечание: включение файла:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\excpt.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\windef.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\minwindef.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\specstrings.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\specstrings_strict.h
+  Примечание: включение файла:          C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\specstrings_undef.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\driverspecs.h
+  Примечание: включение файла:          c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\sdv_driverspecs.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\minwindef.h(130): warning C4005: APIENTRY: изменение макроопределения
+  c:\opengl\glew-2.1.0\include\glfw\glfw3.h(123): note: см. предыдущее определение "APIENTRY"
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winnt.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\kernelspecs.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\basetsd.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\guiddef.h
+  Примечание: включение файла:         c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\pshpack4.h
+  Примечание: включение файла:         c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:         c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\pshpack4.h
+  Примечание: включение файла:         c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack4.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:         c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\pshpack4.h
+  Примечание: включение файла:         c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\pshpack2.h
+  Примечание: включение файла:         c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:         c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\pshpack2.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack2.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:         c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:         c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\pshpack8.h
+  Примечание: включение файла:         c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:         c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\pshpack1.h
+  Примечание: включение файла:         c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:         c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\pshpack1.h
+  Примечание: включение файла:         c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:         c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\apiset.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\ktmtypes.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winbase.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\apisetcconv.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\minwinbase.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\apiquery2.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\processenv.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\fileapi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\debugapi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\utilapiset.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\handleapi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\errhandlingapi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\fibersapi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\namedpipeapi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\profileapi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\heapapi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\ioapiset.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\synchapi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\interlockedapi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\processthreadsapi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\sysinfoapi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\memoryapi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\enclaveapi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\threadpoollegacyapiset.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\threadpoolapiset.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\jobapi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\jobapi2.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\wow64apiset.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\libloaderapi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\securitybaseapi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\namespaceapi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\systemtopologyapi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\processtopologyapi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\securityappcontainer.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\realtimeapiset.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winerror.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\timezoneapi.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\wingdi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack1.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack2.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack2.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack4.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack4.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winuser.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack2.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\tvout.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winnls.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\datetimeapi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\stringapiset.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winnls.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\wincon.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\wincontypes.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\consoleapi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\consoleapi2.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\consoleapi3.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winver.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\verrsrc.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winreg.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\reason.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winnetwk.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\wnnc.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\cderr.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\dde.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\ddeml.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\dlgs.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\lzexpand.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmsystem.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmsyscom.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack1.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack1.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mciapi.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmsyscom.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmiscapi.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmsyscom.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmiscapi2.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmsyscom.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\playsoundapi.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmsyscom.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmeapi.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmsyscom.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\timeapi.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmsyscom.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\joystickapi.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mmsyscom.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\nb30.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\rpc.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\rpcdce.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\rpcdcep.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\rpcnsi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\rpcnterr.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\rpcasync.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\shellapi.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack1.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winperf.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack8.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winsock.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\inaddr.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\wincrypt.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\bcrypt.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\ncrypt.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\dpapi.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winefs.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winscard.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\wtypes.h
+  Примечание: включение файла:        c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\rpcndr.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack8.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\rpcnsip.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\rpcsal.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:        c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\wtypesbase.h
+  Примечание: включение файла:         c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\guiddef.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winioctl.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack1.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack1.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack1.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack1.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack1.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack1.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack1.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\winsmcrd.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winspool.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\prsht.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack4.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\ole2.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack8.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\objbase.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack8.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\combaseapi.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack8.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\unknwnbase.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\objidlbase.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\guiddef.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\cguid.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\coml2api.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\objidl.h
+  Примечание: включение файла:          c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\unknwn.h
+  Примечание: включение файла:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\propidlbase.h
+  Примечание: включение файла:          c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\oaidl.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\urlmon.h
+  Примечание: включение файла:         c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\oleidl.h
+  Примечание: включение файла:         c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\servprov.h
+  Примечание: включение файла:         c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\msxml.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\propidl.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\oleauto.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack8.h
+  Примечание: включение файла:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\commdlg.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\prsht.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\pshpack1.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\poppack.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\stralign.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winsvc.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\mcx.h
+  Примечание: включение файла:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\imm.h
+  Примечание: включение файла:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\ime_cmodes.h
+  Примечание: включение файла:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\assert.h
+  Примечание: включение файла:    c:\opengl\tokamak_release\include\math\ne_smath.h
+  Примечание: включение файла:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\math.h
+  Примечание: включение файла:    c:\opengl\tokamak_release\include\math\ne_math_misc_inline.h
+  Примечание: включение файла:    c:\opengl\tokamak_release\include\math\ne_math_v3_inline.h
+  Примечание: включение файла:    c:\opengl\tokamak_release\include\math\ne_math_v4_inline.h
+  Примечание: включение файла:    c:\opengl\tokamak_release\include\math\ne_math_m4_inline.h
+  Примечание: включение файла:    c:\opengl\tokamak_release\include\math\ne_math_m3_inline.h
+  Примечание: включение файла:    c:\opengl\tokamak_release\include\math\ne_math_q_inline.h
+  Примечание: включение файла:    c:\opengl\tokamak_release\include\math\ne_math_t3_inline.h
+  Примечание: включение файла:  C:\OpenGL\glew-2.1.0\include\stb-master/stb_image.h
+  Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\math.h
+  Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\assert.h
+c:\users\tadanosss\source\repos\glew_project_shader\glew_project\glew_project.cpp(57): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\tadanosss\source\repos\glew_project_shader\glew_project\glew_project.cpp(269): warning C4305: инициализация: усечение из "double" в "GLfloat"
+c:\users\tadanosss\source\repos\glew_project_shader\glew_project\glew_project.cpp(282): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\tadanosss\source\repos\glew_project_shader\glew_project\glew_project.cpp(283): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\tadanosss\source\repos\glew_project_shader\glew_project\glew_project.cpp(354): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMTD" противоречит использованию других библиотек; используйте параметр /NODEFAULTLIB:library
+  Создание кода
+  1 of 511 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+tokamak_d.lib(collision.obj) : warning LNK4099: "vc80.pdb" PDB не найден с "tokamak_d.lib(collision.obj)" или на "C:\Users\Tadanosss\source\repos\GLEW_Project_shader\Release\vc80.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+tokamak_d.lib(collisionbody.obj) : warning LNK4099: "vc80.pdb" PDB не найден с "tokamak_d.lib(collisionbody.obj)" или на "C:\Users\Tadanosss\source\repos\GLEW_Project_shader\Release\vc80.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+tokamak_d.lib(constraint.obj) : warning LNK4099: "vc80.pdb" PDB не найден с "tokamak_d.lib(constraint.obj)" или на "C:\Users\Tadanosss\source\repos\GLEW_Project_shader\Release\vc80.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+tokamak_d.lib(cylinder.obj) : warning LNK4099: "vc80.pdb" PDB не найден с "tokamak_d.lib(cylinder.obj)" или на "C:\Users\Tadanosss\source\repos\GLEW_Project_shader\Release\vc80.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+tokamak_d.lib(dcd.obj) : warning LNK4099: "vc80.pdb" PDB не найден с "tokamak_d.lib(dcd.obj)" или на "C:\Users\Tadanosss\source\repos\GLEW_Project_shader\Release\vc80.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+tokamak_d.lib(lines.obj) : warning LNK4099: "vc80.pdb" PDB не найден с "tokamak_d.lib(lines.obj)" или на "C:\Users\Tadanosss\source\repos\GLEW_Project_shader\Release\vc80.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+tokamak_d.lib(ne_interface.obj) : warning LNK4099: "vc80.pdb" PDB не найден с "tokamak_d.lib(ne_interface.obj)" или на "C:\Users\Tadanosss\source\repos\GLEW_Project_shader\Release\vc80.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+tokamak_d.lib(perfwin32.obj) : warning LNK4099: "vc80.pdb" PDB не найден с "tokamak_d.lib(perfwin32.obj)" или на "C:\Users\Tadanosss\source\repos\GLEW_Project_shader\Release\vc80.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+tokamak_d.lib(region.obj) : warning LNK4099: "vc80.pdb" PDB не найден с "tokamak_d.lib(region.obj)" или на "C:\Users\Tadanosss\source\repos\GLEW_Project_shader\Release\vc80.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+tokamak_d.lib(restcontact.obj) : warning LNK4099: "vc80.pdb" PDB не найден с "tokamak_d.lib(restcontact.obj)" или на "C:\Users\Tadanosss\source\repos\GLEW_Project_shader\Release\vc80.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+tokamak_d.lib(rigidbody.obj) : warning LNK4099: "vc80.pdb" PDB не найден с "tokamak_d.lib(rigidbody.obj)" или на "C:\Users\Tadanosss\source\repos\GLEW_Project_shader\Release\vc80.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+tokamak_d.lib(rigidbodybase.obj) : warning LNK4099: "vc80.pdb" PDB не найден с "tokamak_d.lib(rigidbodybase.obj)" или на "C:\Users\Tadanosss\source\repos\GLEW_Project_shader\Release\vc80.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+tokamak_d.lib(scenery.obj) : warning LNK4099: "vc80.pdb" PDB не найден с "tokamak_d.lib(scenery.obj)" или на "C:\Users\Tadanosss\source\repos\GLEW_Project_shader\Release\vc80.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+tokamak_d.lib(simulator.obj) : warning LNK4099: "vc80.pdb" PDB не найден с "tokamak_d.lib(simulator.obj)" или на "C:\Users\Tadanosss\source\repos\GLEW_Project_shader\Release\vc80.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+tokamak_d.lib(solver.obj) : warning LNK4099: "vc80.pdb" PDB не найден с "tokamak_d.lib(solver.obj)" или на "C:\Users\Tadanosss\source\repos\GLEW_Project_shader\Release\vc80.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+tokamak_d.lib(sphere.obj) : warning LNK4099: "vc80.pdb" PDB не найден с "tokamak_d.lib(sphere.obj)" или на "C:\Users\Tadanosss\source\repos\GLEW_Project_shader\Release\vc80.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+tokamak_d.lib(stack.obj) : warning LNK4099: "vc80.pdb" PDB не найден с "tokamak_d.lib(stack.obj)" или на "C:\Users\Tadanosss\source\repos\GLEW_Project_shader\Release\vc80.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+tokamak_d.lib(tricollision.obj) : warning LNK4099: "vc80.pdb" PDB не найден с "tokamak_d.lib(tricollision.obj)" или на "C:\Users\Tadanosss\source\repos\GLEW_Project_shader\Release\vc80.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  GLEW_Project.vcxproj -> C:\Users\Tadanosss\source\repos\GLEW_Project_shader\Release\GLEW_Project.exe
